@@ -1,4 +1,4 @@
-WORK_DIR=$PWD/wd
+WORK_DIR=$(PWD)/wd
 
 # TODO: tun build with params
 
